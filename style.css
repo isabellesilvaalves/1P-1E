@@ -1,4 +1,10 @@
 body{
     background-color: rgb(66, 61, 61);
-        color: rgb(3, 85, 85);
+        color: antiquewhite;
+}
+header{
+    background-color: black;
+}
+a{
+    color: white;
 }
