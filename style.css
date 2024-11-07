@@ -1,10 +1,21 @@
 body{
     background-color: rgb(66, 61, 61);
         color: antiquewhite;
+     
 }
+
+
 header{
     background-color: black;
+    margin: 0px;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
 }
+
 a{
     color: white;
 }
